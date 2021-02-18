@@ -26,7 +26,7 @@ let resumeData = {
        
       ],
     "aboutme":"Je suis actuellement à la recherche d'un poste en tant que développeur web et web mobile Junior et travaille en tant que Freelance afin de gagner en expérience et en compétence.",
-    "address":"Toulouse, France",
+    "address":"Rennes, France",
     "website":"daisukeleblonx@gmail.com",
     "education":[
       {
