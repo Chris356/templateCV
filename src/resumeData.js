@@ -98,6 +98,13 @@ let resumeData = {
     ],
     "portfolio":[
       {
+        "name":"Nathalie TURPIN Secrétariat",
+        "description":"Site Vitrine pour l'activité de secrétaire Freelance pour le compte de Nathalie TURPIN.",
+        "imgurl": "https://zupimages.net/up/21/08/ry3g.png",
+        "imgmoburl": "https://zupimages.net/up/21/08/2coq.png",
+        "url": "https://www.nathalie-turpin-secretariat.com"
+      },
+      {
         "name":"Marche Rose Combourg",
         "description":"Page internet d'information, et réservation à l'occasion de la marche contre le cancer organisée par le Rotary Club de Combourg(35).",
         "imgurl": "https://zupimages.net/up/20/37/81yi.png",
