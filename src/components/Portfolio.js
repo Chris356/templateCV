@@ -7,7 +7,6 @@ export default class Porfolio extends Component {
   render() {
     let resumeData = this.props.resumeData;
     const width = window.innerWidth
-    console.log(width);
     return (
       <section id="portfolio">
       <div className="row">
