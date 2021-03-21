@@ -98,6 +98,13 @@ let resumeData = {
     ],
     "portfolio":[
       {
+        "name":"Slack clone",
+        "description":"Clone de Slack que j'améliore dès que je le peux. La version mobile n'est pas encore optimale et sera l'objet d'une prochaine mise à niveau.",
+        "imgurl": "https://zupimages.net/up/21/11/5omw.png",
+        "imgmoburl": "https://zupimages.net/up/21/11/5omw.png",
+        "url": "https://slack-clone-6b650.web.app/"
+      },
+      {
         "name":"Nathalie TURPIN Secrétariat",
         "description":"Site Vitrine pour l'activité de secrétaire Freelance pour le compte de Nathalie TURPIN.",
         "imgurl": "https://zupimages.net/up/21/08/ry3g.png",
