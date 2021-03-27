@@ -98,11 +98,11 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"Slack clone",
-        "description":"Clone de Slack que j'améliore dès que je le peux. La version mobile n'est pas encore optimale et sera l'objet d'une prochaine mise à niveau.",
+        "name":"Dev Story, la story des devs",
+        "description":"Application de chat que j'améliore et complète dès que je le peux. La version mobile n'est pas encore optimale et sera l'objet d'une prochaine mise à niveau.",
         "imgurl": "https://zupimages.net/up/21/11/5omw.png",
         "imgmoburl": "https://zupimages.net/up/21/11/5omw.png",
-        "url": "https://slack-clone-6b650.web.app/"
+        "url": "https://devstory-53c17.web.app/"
       },
       {
         "name":"Nathalie TURPIN Secrétariat",
